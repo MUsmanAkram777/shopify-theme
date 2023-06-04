@@ -1,0 +1,10 @@
+{
+    "sections": {
+        "tabs": {
+            "type": "tabs"
+        }
+    },
+    "order": [
+        "tabs"
+    ]
+}
